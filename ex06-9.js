@@ -4,5 +4,5 @@ function txtchange69(){
 
 function imgchage1(){
 
-document.getElementById('logo').src ='./img/坂本.jpg';
+document.getElementById('logo').src ='./img/ya.jpg';
 }
