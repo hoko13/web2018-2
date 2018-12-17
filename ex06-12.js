@@ -1,6 +1,6 @@
 function ThreeSecChange() {
 //関数imgchange1()を3000ミリ秒間で呼び出す
-satIntervel("imgchange12()",3000); }
+setInterval("imgchange12()",3000); }
 
 
 function imgchange12() {

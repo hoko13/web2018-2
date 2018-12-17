@@ -1,8 +1,7 @@
-function txtchange69(){
- document.getElementByld('txt1').innerHTML = 'ナンバーワン ! ';
+function txtchange1(){
+ document.getElementById('txt1').innerHTML = 'ナンバーワン ! ';
 }
 
-function imgchage1(){
-
+function imgchange1(){
 document.getElementById('logo').src ='./img/ya.jpg';
 }
