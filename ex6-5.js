@@ -1,5 +1,5 @@
-var who65='world';
-function sayhello65(){ 
-alert('Hello,' + who65 + '!');}
-function taro65(){ who65 ='りほこ';}
-function hanako65(){ who65 ='りーぃ';}
+var who='world';
+function sayhello(){ 
+alert('Hello,' + who + '!');}
+function taro65(){ who ='りほこ';}
+function hanako65(){ who ='りーぃ';}
