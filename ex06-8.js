@@ -7,9 +7,9 @@ function sayhello68(){
 }
        
 function taro68(){
-  document.getElementById('who68').innerHTML = '太郎';
+  document.getElementById('who68').innerHTML = '頑張る';
  }
 function hanako68(){
-  document.getElementById('who68').innerHTML = '花子';
+  document.getElementById('who68').innerHTML = '吏穂子';
 }
                           

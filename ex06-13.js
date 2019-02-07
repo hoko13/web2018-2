@@ -11,7 +11,7 @@ function ChangeImageAndBack(){
   setTimeout("imgchange2()" ,3000);
   }
   function imgchange2(){
-   document.getElementById('img13').src = './img/isu.jpg';
+   document.getElementById('img13').src = './img/や.jpg';
    }
    
    //function ThreeSecBack(){
@@ -20,6 +20,6 @@ function ChangeImageAndBack(){
    //}
    
    function imgback(){
-    document.getElementById('img13').src = './img/kouseikunn.png';
+    document.getElementById('img13').src = './img/sakamoto.jpg';
    }
    
